@@ -22,4 +22,8 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUIs");
 	}
+	public void elementsUIsss()
+	{
+		System.out.println("elementsUIsss");
+	}
 }
